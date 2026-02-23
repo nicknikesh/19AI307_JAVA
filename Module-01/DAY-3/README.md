@@ -34,8 +34,8 @@ To write a Java program to calculate the factorial of a number using a for loop.
  ```
 /*
 Program to implement a Looping Statement using Java
-Developed by: MANJUSRI KAVYA R
-RegisterNumber: 212224040186
+Developed by: NIKESH KUMAR C
+RegisterNumber: 212223040132
 
 
 
@@ -75,6 +75,7 @@ public class Factorial {
 ## RESULT:
 
 The program successfully writes a Java program to calculate the factorial of a number using a for loop. 
+
 
 
 
