@@ -47,3 +47,4 @@ RegisterNumber:
 Thus, the Java program Thus the java program to read 5 values and display the all 5 values from array using single dimensional  was executed successfully.
 
 
+
