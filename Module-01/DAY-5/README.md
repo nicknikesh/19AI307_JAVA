@@ -34,8 +34,8 @@ To write a Java program to reverse a given string.
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: MANJUSRI KAVYA R
-RegisterNumber: 212224040186
+Developed by: NIKESH KUMAR C
+RegisterNumber: 212223040132
 
 
 */
@@ -74,6 +74,7 @@ public class ReverseString {
 
 ## RESULT:
 The program successfully writes a Java program to reverse a given string.
+
 
 
 
